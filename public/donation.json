@@ -1,0 +1,51 @@
+   [
+    {
+      "id": 1,
+      "picture": "Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg_color": "#4CAF50",
+      "card_bg_color": "#E8F5E9",
+      "text_button_bg_color": "#FFFFFF",
+      "description": "Track your daily activities and workouts with this advanced fitness tracker.",
+      "price": "$49.99",
+      "text_color": "#4caf50"
+    },
+    {
+      "id": 2,
+      "picture": "Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "category_bg_color": "#FFFFFF",
+      "card_bg_color": "#E3F2FD",
+      "text_button_bg_color": "#FFFFFF",
+      "description": "Master Python programming with this comprehensive online course.",
+      "price": "$29.99",
+      "text_color": "#0693e3"
+    },
+    {
+      "id": 3,
+      "picture": "Clothing.png",
+      "title": "Men's Casual Shirt",
+      "category": "Clothing",
+      "category_bg_color": "#FFFFFF",
+      "card_bg_color": "#FFF8E1",
+      "text_button_bg_color": "#FFFFFF",
+      "description": "Stay stylish and comfortable with this trendy casual shirt for men.",
+      "price": "$39.99",
+      "text_color": "#ff6900"
+    },
+    {
+      "id": 4,
+      "picture": "Food.png",
+      "title": "Organic Fruit Basket",
+      "category": "Food",
+      "category_bg_color": "pink",
+      "card_bg_color": "#FBE9E7",
+      "text_button_bg_color": "#FFFFFF",
+      "description": "Enjoy a healthy assortment of organic fruits with this fresh fruit basket.",
+      "price": "$19.99",
+      "text_color": "#f06292"
+    }
+  ]
+
